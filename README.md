@@ -102,7 +102,7 @@ These views demonstrate how users can explore the dashboard using different filt
 
 SQLite was used to analyse retail sales, products, branches, inventory, and supplier performance.
 
-A total of 14 SQL queries were developed to explore the dataset and identify relevant business insights.
+A total of 15 SQL queries were developed to explore the dataset and identify relevant business insights.
 
 ### Query 7 – Top 10 Products
 
